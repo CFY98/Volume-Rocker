@@ -16,9 +16,9 @@ It displays a graphical volume slider UI — useful for visual feedback — but 
 ## 🗂 Repository Structure
 📄 volume.py        — Main Python script containing the visual volume rocker  
 📄 LICENSE          — MIT open-source license
-📦 Getting Started
 
-## To run Volume-Rocker locally:
+##📦 Getting Started
+To run Volume-Rocker locally:
 
 1) Ensure you have Python installed (Python 3.6+ recommended).
 
@@ -43,4 +43,4 @@ You can integrate it into GUI toolkits or extend it to add real volume control i
 
 📝 License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
