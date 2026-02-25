@@ -1,7 +1,7 @@
 # 📢 Volume-Rocker
 
 Volume-Rocker is a simple visual volume rocker widget written in Python.
-It displays a graphical volume slider UI — useful for visual feedback — but does not actually change the system volume.
+It displays a graphical volume slider UI. However, it does not actually change the system volume.
 
 ## 🚀 Features
 
@@ -42,11 +42,6 @@ python volume.py
 ```
 ⚠️ Note: This tool does not control system volume — it’s just a visual representation.
 
-## 📌 Usage
-
-Volume-Rocker is ideal when you want a simple visual cue of volume changes in a Python environment or learning project.
-You can integrate it into GUI toolkits or extend it to add real volume control in the future.
-
-📝 License
+## 📝 License
 
 This project is licensed under the MIT License.
