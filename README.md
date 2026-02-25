@@ -14,7 +14,8 @@ It displays a graphical volume slider UI — useful for visual feedback — but 
 - **Python**:	Main language for the UI logic
   
 ## 🗂 Repository Structure
-📄 volume.py        — Main Python script containing the visual volume rocker  
+📄 volume.py        — Main Python script containing the visual volume rocker 
+📄 README.md        — This file
 📄 LICENSE          — MIT open-source license
 
 ## 📦 Getting Started
