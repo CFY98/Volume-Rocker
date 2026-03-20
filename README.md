@@ -5,10 +5,10 @@ It displays a graphical volume slider UI. However, it does not actually change t
 
 ## 🚀 Features
 
--🎚️ Visual Volume Slider – A graphical representation of volume level.
--🐍 Python-Based – Easy to view and extend.
--📌 Standalone Logic – Purely visual: does not affect real audio settings.
--📘 Lightweight & Simple – Minimal dependencies and easy to read structure.
+- Visual Volume Slider – A graphical representation of volume level.
+- Python-Based – Easy to view and extend.
+- Standalone Logic – Purely visual: does not affect real audio settings.
+- Lightweight & Simple – Minimal dependencies and easy to read structure.
 
 ## 🧰 Technologies Used
 
@@ -16,9 +16,9 @@ It displays a graphical volume slider UI. However, it does not actually change t
 
 ## 🗂 Repository Structure
 
--📄 volume.py — Main Python script containing the visual volume rocker  
--📄 LICENSE — MIT open-source license
--📦 Getting Started
+- volume.py — Main Python script containing the visual volume rocker
+- LICENSE — MIT open-source license
+- Getting Started
 
 ## To run Volume-Rocker locally:
 
