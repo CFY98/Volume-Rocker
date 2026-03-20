@@ -27,7 +27,7 @@ It displays a graphical volume slider UI. However, it does not actually change t
 2. Clone this repository:
 
 ```
-git clone https://github.com/CFY98/Volume-Rocker.git
+git clone git@github.com:CFY98/Volume-Rocker.git
 ```
 
 3. Navigate into the project folder:
