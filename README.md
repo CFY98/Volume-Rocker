@@ -5,35 +5,43 @@ It displays a graphical volume slider UI. However, it does not actually change t
 
 ## 🚀 Features
 
-🎚️ Visual Volume Slider – A graphical representation of volume level.
-🐍 Python-Based – Easy to view and extend.
-📌 Standalone Logic – Purely visual: does not affect real audio settings.
-📘 Lightweight & Simple – Minimal dependencies and easy to read structure.
+-🎚️ Visual Volume Slider – A graphical representation of volume level.
+-🐍 Python-Based – Easy to view and extend.
+-📌 Standalone Logic – Purely visual: does not affect real audio settings.
+-📘 Lightweight & Simple – Minimal dependencies and easy to read structure.
 
 ## 🧰 Technologies Used
-- **Python**:	Main language for the UI logic
-  
+
+- **Python**: Main language for the UI logic
+
 ## 🗂 Repository Structure
-📄 volume.py        — Main Python script containing the visual volume rocker  
-📄 LICENSE          — MIT open-source license
-📦 Getting Started
+
+-📄 volume.py — Main Python script containing the visual volume rocker  
+-📄 LICENSE — MIT open-source license
+-📦 Getting Started
 
 ## To run Volume-Rocker locally:
 
-1) Ensure you have Python installed (Python 3.6+ recommended).
+1. Ensure you have Python installed (Python 3.6+ recommended).
 
-2) Clone this repository:
+2. Clone this repository:
+
 ```
 git clone https://github.com/CFY98/Volume-Rocker.git
 ```
-3) Navigate into the project folder:
+
+3. Navigate into the project folder:
+
 ```
 cd Volume-Rocker
 ```
-4) Run the visual volume rocker:
+
+4. Run the visual volume rocker:
+
 ```
 python volume.py
 ```
+
 ⚠️ Note: This tool does not control system volume — it’s just a visual representation.
 
 ## 📝 License
